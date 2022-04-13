@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfeeling&show_icons=true&theme=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starfeeling)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **starfeeling/starfeeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
